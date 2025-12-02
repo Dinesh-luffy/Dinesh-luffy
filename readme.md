@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Tech Stack (Animated Icons)
+## ⚡ Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="55"/>
@@ -33,10 +33,11 @@
 | 🧭 **Smart Route Recommender + Delhi AQI Monitor** | Air-quality-aware route recommender (SIH). | Python • APIs • Data Science |
 
 🔗 Repo: **https://github.com/Dinesh-luffy/Smart-India-Hackathon**
+🔗 Repo: **https://github.com/Dinesh-luffy/AI-COMMENT-ANALYZER-.git**
 
 ---
 
-## 📊 GitHub Analytics (Animated)
+## 📊 GitHub Analytics 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinesh-luffy&show_icons=true&theme=react&hide_border=true&count_private=true" />
@@ -49,13 +50,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dinesh-luffy/Dinesh-luffy/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
