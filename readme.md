@@ -37,17 +37,16 @@
 
 ---
 
-## 📊 GitHub Analytics 
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinesh-luffy&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-luffy&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinesh-luffy&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dinesh-luffy&theme=react&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dinesh-luffy&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dinesh-luffy&theme=radical" />
 </p>
-
 ---
 
 
